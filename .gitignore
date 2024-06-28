@@ -1,0 +1,5 @@
+.code
+.venv
+__pycache__
+.env
+firstsoup.py
