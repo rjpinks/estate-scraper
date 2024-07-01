@@ -37,6 +37,7 @@ class TestSaukValleyScraper(unittest.TestCase):
     
 
 tests = TestSaukValleyScraper()
+
 tests.setUp()
 tests.test_url_collection()
 
